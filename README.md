@@ -7,6 +7,18 @@
 </p>
 <div align="center">
 
+![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=Flat&logo=apple&logoColor=white)
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=Flat&logo=app-store&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=Flat&logo=ios&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=Flat&logo=Xcode&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=Flat&logo=markdown&logoColor=white)
+![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=Flat&logo=apple-music&logoColor=white)
+
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=Flat&logo=spotify&logoColor=white)
+![Google](https://img.shields.io/badge/google-4285F4?style=Flat&logo=google&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=Flat&logo=git&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=Flat&logo=github-copilot&logoColor=white)
+
 [**Quick look on my build**](#️my-setup) [(*EFI download*)](https://github.com/wtfllix/NEC8-8100-Sonoma-EFI-Hackintosh/releases/download/20250116/EFI.zip)
 
 </div>
