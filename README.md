@@ -30,8 +30,6 @@
 </tr>
 </table>
 
-<div align="center">
-
 > [!TIP]
 > 💸Additional purchase information for expansion:<br>
 > 1️⃣Cooling kit for southbridge.<br>
@@ -39,7 +37,6 @@
 > 3️⃣Wifi card with NGFF.<br>
 > 4️⃣Half height PCIe card.<br>
 
-</div>
 
 
 ## 🖥️My setup
@@ -78,3 +75,5 @@
 
 <font size=5>[Complie Synergy](./work/synergycomplie.md)</font>
 
+
+<div align="center">
