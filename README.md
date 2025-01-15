@@ -24,7 +24,7 @@
 <td>
 
 
-<img  src="./img/inside1.png" width="353px"><img  src="./img/inside2.png" width="330px">
+<img  src="./img/nec8.jpg" width="250px"><img  src="./img/inside1.png" width="250px"><img  src="./img/inside2.png" width="235px">
 
 </td>
 </tr>
