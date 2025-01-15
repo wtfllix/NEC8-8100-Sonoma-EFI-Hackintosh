@@ -1,9 +1,13 @@
-# NEC8-8100-Sonoma-EFI-Hackintosh
-Journey to Hackintosh with NEC8.
-## Hardware preview
+<h1 align="center">
+  🌟NEC8-8100-Sonoma-EFI-Hackintosh
+</h1> 
+<p align="center">Journey with Hackintosh for NEC8.</p>
+<br>
+
+## 👀Hardware preview
 <img  src="./img/inside1.png" width="500px">
 
-Additional purchase information for expansion:
+💸Additional purchase information for expansion:
 
 1. Cooling kit for southbridge.
 2. 2.5 inch HDD bracket and a sata cable connect to the motherboard.
@@ -12,7 +16,7 @@ Additional purchase information for expansion:
 
 <img  src="./img/inside2.png" width="500px">
 
-## My setup
+## 🖥️My setup
 |  Components   | Name  |
 |  ----  | ----  |
 | CPU  | i3-8100 |
@@ -24,8 +28,9 @@ Additional purchase information for expansion:
 |Ethernet	|Intel I219-V|
 | OS  | Sonoma 14.7.2 (Upgraded from Ventura) |
 | OC  | 1.0.3 |
+|Screenshot|<img src="./img/macos.png/" style="float: right;" alt="mac" width=200px>|
 
-## The journey
+## 🛣️The journey
 
 <font size=5>[Way to Hackintosh](./work/waytohackintosh.md)</font>
 
