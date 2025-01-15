@@ -17,12 +17,13 @@
 </p>
 
 ---
+## 👀Hardware preview
 
 <table>
 <tr>
 <td>
 
-## 👀Hardware preview
+
 <img  src="./img/inside1.png" width="353px"><img  src="./img/inside2.png" width="330px">
 
 </td>
