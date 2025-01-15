@@ -1,4 +1,4 @@
-# NEC8-m720q--8100-Sonoma-EFI-Hackintosh
+# NEC8-8100-Sonoma-EFI-Hackintosh
 Journey to Hackintosh with NEC8.
 ## Hardware preview
 <img  src="./img/inside1.png" width="500px">
@@ -24,3 +24,11 @@ Additional purchase information for expansion:
 |Ethernet	|Intel I219-V|
 | OS  | Sonoma 14.7.2 (Upgraded from Ventura) |
 | OC  | 1.0.3 |
+
+## The journey
+
+<font size=5>[Way to Hackintosh](./work/waytohackintosh.md)</font>
+
+<font size=5>[Downgrade to iOS 14 with 8 Plus](./work/downgradeios14.md)</font>
+
+<font size=5>[Complie Synergy](./work/synergycomplie.md)</font>
