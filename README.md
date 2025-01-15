@@ -1,19 +1,19 @@
 <h1 align="center">
   🌟NEC8-8100-Sonoma-EFI-Hackintosh🌟
 </h1> 
-<p align="center" ><b>Journey with Hackintosh for NEC8.</b></p>
+<p align="center" ><b><u>Journey with NEC8 for Hackintosh.</u></b></p>
 <p align="center">
 <img src="./img/macos-loading.gif" alt="mac" width="300">
 </p>
+<div align="center">
 
+[**Quick look on my build**](#️my-setup) [(*EFI download*)](https://github.com/wtfllix/NEC8-8100-Sonoma-EFI-Hackintosh/releases/download/20250116/EFI.zip)
+
+</div>
 <p align="center">
-    <a href="#️my-setup"><Strong>Quick look on My build for NEC8</Strong></a><br>
-    <a href="./work/waytohackintosh.md" target="blank">Way to Hackintosh</a>
-    ·
-    <a href="./work/downgradeios14.md">Downgrade to iOS 14 with 8 Plus</a>
-    ·
-    <a href="./work/synergycomplie.md">Complie Synergy</a>
-
+<a href="./work/waytohackintosh.md" target="blank">Way to Hackintosh</a>·
+<a href="./work/downgradeios14.md">Downgrade to iOS 14 with 8 Plus</a>·
+<a href="./work/synergycomplie.md">Complie Synergy</a>
 </p>
 
 ---
@@ -22,7 +22,6 @@
 <table>
 <tr>
 <td>
-
 
 <img  src="./img/nec8.jpg" width="250px"><img  src="./img/inside1.png" width="250px"><img  src="./img/inside2.png" width="235px">
 
@@ -56,7 +55,7 @@
 |Audio|          Realtek ALC235|
 |Ethernet	|        Intel I219-V|
 | OS  |     Sonoma 14.7.2 (Upgraded from Ventura) |
-| OC  |                  1.0.3 |
+| OC  |            1.0.3     [EFI download](https://github.com/wtfllix/NEC8-8100-Sonoma-EFI-Hackintosh/releases/download/20250116/EFI.zip)|
 
 </td>
 <td>
