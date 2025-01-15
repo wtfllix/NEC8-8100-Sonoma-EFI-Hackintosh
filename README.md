@@ -30,7 +30,9 @@
 </tr>
 </table>
 
-> [!Note]💸Additional purchase information for expansion:
+> [!NOTE]
+
+> 💸Additional purchase information for expansion:
 
 > 1️⃣Cooling kit for southbridge.
 
@@ -40,6 +42,10 @@
 
 > 4️⃣Half height PCIe card.
 
+> [!NOTE]  
+> The crosshair is designed for a 1920x1080 resolution; in other case, the experience may vary.
+
+## Updating
 
 
 ## 🖥️My setup
