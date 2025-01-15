@@ -1,5 +1,5 @@
 <h1 align="center">
-  🌟NEC8-8100-Sonoma-EFI-Hackintosh🌟
+  🌟𝐍𝐄𝐂𝟖-𝟖𝟏𝟎𝟎-𝐒𝐨𝐧𝐨𝐦𝐚-𝐄𝐅𝐈-𝐇𝐚𝐜𝐤𝐢𝐧𝐭𝐨𝐬𝐡🌟
 </h1> 
 <p align="center" ><b>Journey with NEC8 for Hackintosh.</b></p>
 
