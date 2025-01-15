@@ -78,7 +78,7 @@
 
 </td>
 <td>
-<img src="./img/macos.png/" style="float: right;" alt="mac" width=200px>|
+<img src="./img/macos.png/" style="float: right;" alt="mac" width=200px>
 </td>
 </tr>
 </table>
