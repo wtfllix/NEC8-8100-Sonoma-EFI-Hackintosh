@@ -31,12 +31,14 @@
 </table>
 
 <div align="center">
+
 > [!TIP]
 > 💸Additional purchase information for expansion:<br>
 > 1️⃣Cooling kit for southbridge.<br>
 > 2️⃣2.5 inch HDD bracket and a sata cable connect to the motherboard.<br>
 > 3️⃣Wifi card with NGFF.<br>
 > 4️⃣Half height PCIe card.<br>
+
 </div>
 
 
