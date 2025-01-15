@@ -18,7 +18,7 @@
 
 
 ## 👀Hardware preview
-<img  src="./img/inside1.png" width="500px">
+<img  src="./img/inside1.png" width="353px"><img  src="./img/inside2.png" width="300px">
 
 💸Additional purchase information for expansion:
 
