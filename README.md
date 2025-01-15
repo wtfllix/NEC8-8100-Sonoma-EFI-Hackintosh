@@ -1,19 +1,35 @@
 <h1 align="center">
-  🌟NEC8-8100-Sonoma-EFI-Hackintosh
+  🌟NEC8-8100-Sonoma-EFI-Hackintosh🌟
 </h1> 
-<p align="center" >Journey with Hackintosh for NEC8.</p>
-<img src="./img/macos-loading.gif alt="loading">
-<br>
+<p align="center" ><b>Journey with Hackintosh for NEC8.</b></p>
+<p align="center">
+<img src="./img/macos-loading.gif" alt="mac" width="300">
+</p>
+
+<p align="center">
+    <a href="./README.md#️my-setup"><Strong>Quick look on My build for NEC8</Strong></a><br>
+    <a href="./work/waytohackintosh.md" target="blank">Way to Hackintosh</a>
+    ·
+    <a href="./work/downgradeios14.md">Downgrade to iOS 14 with 8 Plus</a>
+    ·
+    <a href="./work/synergycomplie.md">Complie Synergy</a>
+
+</p>
+
 
 ## 👀Hardware preview
 <img  src="./img/inside1.png" width="500px">
 
 💸Additional purchase information for expansion:
 
-1. Cooling kit for southbridge.
-2. 2.5 inch HDD bracket and a sata cable connect to the motherboard.
-3. Wifi card with NGFF.
-4. Half height PCIe card.
+1️⃣Cooling kit for southbridge.
+
+2️⃣2.5 inch HDD bracket and a sata cable connect to the motherboard.
+
+3️⃣Wifi card with NGFF.
+
+4️⃣Half height PCIe card.
+
 
 <img  src="./img/inside2.png" width="500px">
 
