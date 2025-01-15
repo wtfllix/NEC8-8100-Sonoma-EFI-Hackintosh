@@ -16,9 +16,18 @@
 
 </p>
 
+---
+
+<table>
+<tr>
+<td>
 
 ## 👀Hardware preview
-<img  src="./img/inside1.png" width="353px"><img  src="./img/inside2.png" width="300px">
+<img  src="./img/inside1.png" width="353px"><img  src="./img/inside2.png" width="330px">
+
+</td>
+</tr>
+</table>
 
 💸Additional purchase information for expansion:
 
@@ -31,7 +40,6 @@
 4️⃣Half height PCIe card.
 
 
-<img  src="./img/inside2.png" width="500px">
 
 ## 🖥️My setup
 |  Components   | Name  |
@@ -54,3 +62,4 @@
 <font size=5>[Downgrade to iOS 14 with 8 Plus](./work/downgradeios14.md)</font>
 
 <font size=5>[Complie Synergy](./work/synergycomplie.md)</font>
+
