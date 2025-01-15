@@ -30,27 +30,43 @@
 </tr>
 </table>
 
+<div align="center">
 > [!TIP]
 > 💸Additional purchase information for expansion:<br>
 > 1️⃣Cooling kit for southbridge.<br>
 > 2️⃣2.5 inch HDD bracket and a sata cable connect to the motherboard.<br>
 > 3️⃣Wifi card with NGFF.<br>
 > 4️⃣Half height PCIe card.<br>
+</div>
 
 
 ## 🖥️My setup
-|  Components   | Name  |
-|  ----  | ----  |
-| CPU  | i3-8100 |
-| Moterboard  | B360 |
-| Memory  | 1 x 8G DDR4 2400 |
-| Graphic  | UHD630 |
-| Storge  | 128G SSD |
-|Audio|Realtek ALC235|
-|Ethernet	|Intel I219-V|
-| OS  | Sonoma 14.7.2 (Upgraded from Ventura) |
-| OC  | 1.0.3 |
-|Screenshot|<img src="./img/macos.png/" style="float: right;" alt="mac" width=200px>|
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+|  Components   | Specification  |
+|  ----  | :----: |
+| CPU  |               i3-8100 |
+| Moterboard  |           B360 |
+| Memory  |   1 x 8G DDR4 2400 |
+| Graphic  |            UHD630 |
+| Storge  |           128G SSD |
+|Audio|          Realtek ALC235|
+|Ethernet	|        Intel I219-V|
+| OS  |     Sonoma 14.7.2 (Upgraded from Ventura) |
+| OC  |                  1.0.3 |
+
+</td>
+<td>
+<img src="./img/macos.png/" style="float: right;" alt="mac" width=200px>|
+</td>
+</tr>
+</table>
+</div>
+
 
 ## 🛣️The journey
 
