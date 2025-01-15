@@ -1,7 +1,8 @@
 <h1 align="center">
   🌟NEC8-8100-Sonoma-EFI-Hackintosh
 </h1> 
-<p align="center">Journey with Hackintosh for NEC8.</p>
+<p align="center" >Journey with Hackintosh for NEC8.</p>
+<img src="./img/macos-loading.gif alt="loading">
 <br>
 
 ## 👀Hardware preview
