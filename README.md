@@ -31,8 +31,7 @@
 </div>
 <p align="center">
 <a href="./work/waytohackintosh.md" target="blank">Way to Hackintosh</a>·
-<a href="./work/downgradeios14.md">Downgrade to iOS 14 with 8 Plus</a>·
-<a href="./work/synergycomplie.md">Complie Synergy</a>
+<a href="./work/downgradeios14.md">Downgrade to iOS 14 with 8 Plus</a>
 </p>
 
 ---
